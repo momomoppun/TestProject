@@ -6,6 +6,7 @@ public class HelloGit {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello git");
 		System.out.println("test");
+		System.out.println("hoge");
 	}
 
 }
